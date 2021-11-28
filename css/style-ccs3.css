@@ -2,10 +2,10 @@
 margin: 0px;
 }
 h1 {
-font: bold 20px verdana, sans-serif;
+font: bold 3em "introrustg-base2line", sans-serif;
 }
 h2 {
-font: bold 14px verdana, sans-serif;
+font: bold 30px "BinzMedium", sans-serif;
 }
 header, section, footer, aside, nav, article, figure, figcaption,
 hgroup{
@@ -65,7 +65,7 @@ background: -moz-radial-gradient(center,circle,#FFFFFF 0%, #006699 200%);
 -webkit-transition: -webkit-transform 1s ease-in-out 0.5s;
  }
 #span-title {
-font: bold 36px verdana, sans-serif;
+font: bold 36px "Audiowide", sans-serif;
 text-shadow: rgba(0,0,0,0.5) 3px 3px 5px;
 color: hsla(120, 100%, 50%, 0.5);
 }
@@ -75,7 +75,7 @@ padding: 5px 15px;
 }
 #menu li {
 display: inline-block;
-font: bold 14px verdana, sans-serif;
+font: bold 25px "introrustg-base2line", sans-serif;
 list-style: none;
 padding: 5px;
 }
