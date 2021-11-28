@@ -35,9 +35,17 @@ border-radius: 20px 10px 30px 50px;
 -webkit-box-shadow: rgb(138, 43, 43) 5px 5px;
 box-shadow: rgb(86, 71, 226) 5px 5px 10px inset;
 
+background: -webkit-linear-gradient(top, #FFFFFF, #006699);
+background: -moz-linear-gradient(top, #FFFFFF, #006699);
+
+background: -webkit-radial-gradient(center,circle,#FFFFFF 0%, #006699 200%);
+background: -moz-radial-gradient(center,circle,#FFFFFF 0%, #006699 200%);
+
+
 }
 #span-title {
 font: bold 36px verdana, sans-serif;
+text-shadow: rgb(0,0,150) 3px 3px 5px;
 }
 #menu {
 background: #CCCCCC;
