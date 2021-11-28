@@ -54,15 +54,15 @@ background: -moz-radial-gradient(center,circle,#FFFFFF 0%, #006699 200%);
 -webkit-transform: translate(100px);
 
 -moz-transform: translateY(100px) rotate(45deg) scaleX(0.3);
--webkit-transform: translateY(0px) rotate(0deg) scaleX(1.5);
+-webkit-transform: translateY(0px) rotate(0deg) scaleX(1);
 
 }
 #header-title:hover{
 -moz-transform: rotate(5deg);
--webkit-transform: rotate(5deg);
+-webkit-transform: rotate(180deg);
 
 -moz-transition: -moz-transform 1s ease-in-out 0.5s;
--webkit-transition: -webkit-transform 1s ease-in-out 0.5s;
+-webkit-transition: -webkit-transform 0.5s ease-in-out 0.2s;
  }
 #span-title {
 font: bold 36px "Audiowide", sans-serif;
