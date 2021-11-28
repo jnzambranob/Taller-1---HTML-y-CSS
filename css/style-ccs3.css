@@ -41,11 +41,14 @@ background: -moz-linear-gradient(top, #FFFFFF, #006699);
 background: -webkit-radial-gradient(center,circle,#FFFFFF 0%, #006699 200%);
 background: -moz-radial-gradient(center,circle,#FFFFFF 0%, #006699 200%);
 
+-moz-transform: scale(2);
+-webkit-transform: scale(2);
 
 }
 #span-title {
 font: bold 36px verdana, sans-serif;
-text-shadow: rgb(0,0,150) 3px 3px 5px;
+text-shadow: rgba(0,0,0,0.5) 3px 3px 5px;
+color: hsla(120, 100%, 50%, 0.5);
 }
 #menu {
 background: #CCCCCC;
